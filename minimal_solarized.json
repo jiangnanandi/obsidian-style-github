@@ -188,5 +188,12 @@
   "minimal-style@@h3-variant": "normal",
   "minimal-style@@h3-style": "normal",
   "minimal-style@@h3-l": false,
-  "minimal-style@@h3-weight": 600
+  "minimal-style@@h3-weight": 600,
+  "minimal-style@@link-color@@light": "#A0630F",
+  "minimal-style@@link-external-color@@light": "#A0630F",
+  "minimal-style@@bold-modifier": 200,
+  "minimal-style@@bold-color@@light": "#3B5054",
+  "minimal-style@@h4-color@@light": "#1E2324",
+  "minimal-style@@h4-size": "1.0em",
+  "minimal-style@@h4-weight": 600
 }
